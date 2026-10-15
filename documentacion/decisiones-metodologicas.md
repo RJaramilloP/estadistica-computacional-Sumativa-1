@@ -2,7 +2,7 @@
 
 Registro de las decisiones que condicionan el análisis, con su justificación y la evidencia que las respalda.
 Las referencias a tablas y figuras corresponden a la numeración del notebook
-`notebooks/s1-ecommerce-analisis_ric.ipynb` y a los archivos de `resultados/`.
+`notebooks/s1-ecommerce-analisis.ipynb` y a los archivos de `resultados/`.
 
 | ID | Fase | Decisión | Justificación | Evidencia |
 |---|---|---|---|---|
