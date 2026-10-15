@@ -1,0 +1,14 @@
+# Versiones con las que se ejecutó notebooks/s1-ecommerce-analisis_ric.ipynb
+# (Python 3.13). El notebook imprime estas versiones en la sección 0.
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+matplotlib==3.11.2
+
+# Fases siguientes (S2: remuestreo y simulación; S3: modelamiento).
+statsmodels>=0.14
+scikit-learn>=1.4
+seaborn>=0.13
+
+# Ejecución de notebooks en VS Code o Jupyter.
+ipykernel
